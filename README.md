@@ -1,6 +1,6 @@
 ### Olá me chamo Carlos
 
-- 📚 Estudando c# e SQl
+- 📚 Estudando C# e MySql
 - 🎃 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
