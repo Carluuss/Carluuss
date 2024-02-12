@@ -25,8 +25,10 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.gifer.com/DSG.gif" alt="Imagem">
+  <img align="center" src="https://i.gifer.com/11th.gif" alt="Imagem">
 </p>
+
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
