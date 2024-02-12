@@ -28,7 +28,7 @@
 <!-- GIF -->
 
 <div style="flex-basis: 48%;">
-  <img align="center" src="https://24.media.tumblr.com/668a21316e691594842eaa2d618862cc/tumblr_mposgyzArC1s5lf2ro1_500.gif" alt="Imagem">
+  <img align="center" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Imagem">
 </div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7mril5ql2v6ne4zpig3sfnr36&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
