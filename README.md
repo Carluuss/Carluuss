@@ -18,8 +18,7 @@
 [![E-mail](https://img.shields.io/badge/Email-E62C09?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carluss777@gmail.com)
 
 <!-- GithubStats -->
-
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carluuss&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carluuss&layout=compact&show_icons=true&theme=synthwave)
 
 <!-- Portfolio -->
