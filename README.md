@@ -24,8 +24,9 @@
 
 
 <!-- GIF -->
+
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://24.media.tumblr.com/668a21316e691594842eaa2d618862cc/tumblr_mposgyzArC1s5lf2ro1_500.gif" alt="Imagem">
 </p>
 
 
