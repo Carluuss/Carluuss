@@ -22,7 +22,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carluuss&layout=compact&show_icons=true&theme=synthwave)
 
 <!-- Portfolio -->
-
+## Portfolio:
+- [PHP - ADOCAO](https://github.com/Carluuss/AdoCao)
+- [JavaScript - Jogo-da-forca](https://github.com/Carluuss/Jogo-da-forca)
 
 <!-- GIF -->
 
