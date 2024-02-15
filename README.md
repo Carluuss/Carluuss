@@ -26,6 +26,7 @@
 - [ADOCAO](https://ado-cao-five.vercel.app)
 - [Jogo-da-velha](https://jogo-da-velha-nu-azure.vercel.app)
 - [layout-responsivo](https://layout-responsivo-kappa.vercel.app)
+- [site-gamesshop](https://site-gamesshop-lime-omega.vercel.app)
 <!-- GIF -->
 
 <div style="flex-basis: 48%;">
