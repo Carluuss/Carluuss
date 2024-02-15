@@ -25,7 +25,7 @@
 ## Portfolio:
 - [ADOCAO](https://ado-cao-five.vercel.app)
 - [Jogo-da-velha](https://jogo-da-velha-nu-azure.vercel.app)
-- [layout-responsivo](https://layout-responsivo-kappa.vercel.app)
+- [projeto-calculadora](https://projeto-calculadora-medias-nine-blond.vercel.app)
 - [site-gamesshop](https://site-gamesshop-lime-omega.vercel.app)
 <!-- GIF -->
 
