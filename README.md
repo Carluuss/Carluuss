@@ -23,9 +23,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [PHP - ADOCAO](https://github.com/Carluuss/AdoCao)
-- [JavaScript - Jogo-da-forca](https://github.com/Carluuss/Jogo-da-forca)
-
+- [ADOCAO](https://ado-cao-five.vercel.app)
+- [Jogo-da-velha](https://jogo-da-velha-nu-azure.vercel.app)
+- [layout-responsivo](https://layout-responsivo-kappa.vercel.app)
 <!-- GIF -->
 
 <div style="flex-basis: 48%;">
