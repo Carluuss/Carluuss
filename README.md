@@ -24,7 +24,6 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [ADOCAO](https://ado-cao-five.vercel.app)
-- [Jogo-da-velha](https://jogo-da-velha-nu-azure.vercel.app)
 - [projeto-calculadora](https://projeto-calculadora-medias-nine-blond.vercel.app)
 - [site-gamesshop](https://site-gamesshop-lime-omega.vercel.app)
 - [AUTOMOVEIS](https://projeto-automoveis-n6qrp487o-carlos-projects-102fdfd7.vercel.app)
