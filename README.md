@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Oi 👋, Me chamo Carlos Sou estudadante de Análise e Desenvolvimento de Sistemas.
+  Oi 👋, Me chamo Carlos.
 
   - 🌱 Atualmente estou estudando Desenvovilmento Full Stack pela EBAC
   - 🔭 Estou a procura da minha primeira experiência de emprego como desenvolvedor.
