@@ -8,7 +8,7 @@
 <p>
   Oi 👋, Me chamo Carlos.
 
-  - 🌱 Atualmente estou estudando Desenvovilmento Full Stack pela EBAC
+  - 🌱 Atualmente estou estudando Desenvovilmento Full Stack
   - 🔭 Estou a procura da minha primeira experiência de emprego como desenvolvedor.
 </p>
 
