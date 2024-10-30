@@ -22,11 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carluuss&layout=compact&show_icons=true&theme=synthwave)
 
 <!-- Portfolio -->
-## Portfolio:
-- [ADOCAO](https://ado-cao-five.vercel.app)
-- [projeto-calculadora](https://projeto-calculadora-medias-nine-blond.vercel.app)
-- [site-gamesshop](https://site-gamesshop-lime-omega.vercel.app)
-- [AUTOMOVEIS](https://projeto-automoveis-n6qrp487o-carlos-projects-102fdfd7.vercel.app)
+
 <!-- GIF -->
 
 <div style="flex-basis: 48%;">
